@@ -1,5 +1,3 @@
-# snovoice (drafting)
+# snowords
 
-onHear: voice to snovoice-lang
-
-onSing: snovoice-lang to voice
+Learn any words like a words collection master.
