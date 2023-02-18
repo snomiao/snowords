@@ -1,8 +1,5 @@
 {
   "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true,
-  "gitdoc.enabled": true,
-  "gitdoc.autoCommitDelay": 0,
-  "gitdoc.commitOnClose": true,
-  "gitdoc.autoPush": "onCommit"
+  "gitdoc.enabled": true
 }
